@@ -1,7 +1,7 @@
 <h2> List of geologists</h2>
-<div id="toc" class="toc plainlinks hlist">
-<div id="toctitle" class="toctitle"><span id="tocheading">Contents</span></div>
-<div>
+
+<p>Contents</p>
+
 <ul>
 <li><a href="#A">A</a></li>
 <li><a href="#B">B</a></li>
